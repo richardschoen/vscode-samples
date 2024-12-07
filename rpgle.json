@@ -1,0 +1,76 @@
+// Sample RPG Fmt Specs
+//CL0N01Factor1+++++++Opcode&ExtFactor2+++++++Result++++++++Len++D+HiLoEq....Comments++++++++++++
+//DName+++++++++++ETDsFrom+++To/L+++IDc.Keywords+++++++++++++++++++++++++++++Comments++++++++++++
+//FFilename++IPEASFRlen+LKlen+AIDevice+.Keywords+++++++++++++++++++++++++++++Comments++++++++++++
+//HKeywords++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Comments++++++++++++
+//IFilename++SqNORiPos1+NCCPos2+NCCPos3+NCC..................................Comments++++++++++++
+//I........................Fmt+SPFrom+To+++DcField+++++++++L1M1FrPlMnZr......Comments++++++++++++
+//OFilename++DF..N01N02N03Excnam++++B++A++Sb+Sa+.............................Comments++++++++++++
+//O..............N01N02N03Field+++++++++YB.End++PConstant/editword/DTformat++Comments++++++++++++
+
+{
+	 "Insert RPG C-Spec": {
+	 	"prefix": "FMT RPG C Spec",
+	 	"body": [
+	 		"CL0N01Factor1+++++++Opcode&ExtFactor2+++++++Result++++++++Len++D+HiLoEq....Comments++++++++++++",
+	 		"$2"
+	 	],
+	 	"description": "Insert RPG C-Spec"
+     },
+	 "Insert RPG D-Spec": {
+		"prefix": "FMT RPG D Spec",
+		"body": [
+			"DName+++++++++++ETDsFrom+++To/L+++IDc.Keywords+++++++++++++++++++++++++++++Comments++++++++++++",
+			"$2"
+		],
+		"description": "Insert RPG D-Spec"
+	},	 
+	"Insert RPG F-Spec": {
+		"prefix": "FMT RPG F Spec",
+		"body": [
+			"FFilename++IPEASFRlen+LKlen+AIDevice+.Keywords+++++++++++++++++++++++++++++Comments++++++++++++",
+			"$2"
+		],
+		"description": "Insert RPG F-Spec"
+	},	 
+	"Insert RPG H-Spec": {
+		"prefix": "FMT RPG H Spec",
+		"body": [
+			"HKeywords++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Comments++++++++++++",
+			"$2"
+		],
+		"description": "Insert RPG H-Spec"
+	},	 
+	"Insert RPG I-Spec": {
+		"prefix": "FMT RPG I Spec",
+		"body": [
+			"IFilename++SqNORiPos1+NCCPos2+NCCPos3+NCC..................................Comments++++++++++++",
+			"$2"
+		],
+		"description": "Insert RPG I-Spec"
+	},	 
+	"Insert RPG J-Spec": {
+		"prefix": "FMT RPG J Spec",
+		"body": [
+			"I........................Fmt+SPFrom+To+++DcField+++++++++L1M1FrPlMnZr......Comments++++++++++++",
+			"$2"
+		],
+		"description": "Insert RPG J-Spec"
+	},	 
+	"Insert RPG O-Spec": {
+		"prefix": "FMT RPG O Spec",
+		"body": [
+			"OFilename++DF..N01N02N03Excnam++++B++A++Sb+Sa+.............................Comments++++++++++++",
+			"$2"
+		],
+		"description": "Insert RPG O-Spec"
+	},
+	"Insert RPG P-Spec": {
+		"prefix": "FMT RPG P Spec",
+		"body": [
+			"O..............N01N02N03Field+++++++++YB.End++PConstant/editword/DTformat++Comments++++++++++++",
+			"$2"
+		],
+		"description": "Insert RPG P-Spec"
+	},		 				
+}
