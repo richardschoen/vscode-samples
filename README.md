@@ -1,6 +1,7 @@
 # VS Code Useful Code Samples and Links
-This repo is for sample links, snippets, etc that can be used with VS Code. 
+This repo is for sample links, snippets, etc that can be used with VS Code.    
 
+Feel free to do a pull request, open an issue or contact me with a suggested site or content.        
 
 ## Links
 
