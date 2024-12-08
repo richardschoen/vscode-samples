@@ -17,6 +17,13 @@ https://marketplace.visualstudio.com/items?itemName=inu1255.easy-snippet
 **Copy as Snippet** - This Extension helps to copy multiline codes or txt as a VSCode Snippet Object.   
 https://marketplace.visualstudio.com/items?itemName=Thinker.copy-as-snippet
 
+### Microsoft
+**C# Dev Kit** - C# Dev Kit for Visual Studio Code   
+https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit   
+
+**.Net Install Tool** - This extension provides a unified way for other extensions like the C# and C# Dev Kit extensions to install local versions of the .NET Runtime, and machine-wide versions of the .NET SDK.   
+https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime
+
 ### IBM i 
 **IBM i Development Pack** - This extension pack includes a set of extensions for IBM i development in Visual Studio Code including the Code for IBM i plugin.   
 https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.ibm-i-development-pack
