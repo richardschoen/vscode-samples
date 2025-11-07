@@ -6,6 +6,9 @@
 Base extensions used for IBM i development in VS Code.   
 https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.ibm-i-development-pack
 
+### SSH FS - SSH/SFTP Client
+File system, terminal and task provider using SSH. I believe this provider is also used by the Code for i plugins.   
+https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs    
 
 ## General VS Code Plugins
 
